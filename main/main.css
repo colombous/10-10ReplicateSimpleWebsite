@@ -8,14 +8,12 @@ body
 	margin: 0;
 }
 
-/** SITE WRAPPER **/
 .wrapper 
 {
 	margin: 0 auto;
 	width: 80%;
 }
 
-/** SITE HEADER **/
 .header 
 {
 	background-color: #E7E5E6;
@@ -31,7 +29,6 @@ body
 	text-transform: uppercase;
 }
 
-/** SITE NAVIGATION **/
 .navigation 
 {
 	background-color: #A5A3A4;
